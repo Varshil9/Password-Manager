@@ -30,3 +30,16 @@ A simple password manager application built using Python and tkinter for the use
 3. Make sure to remember your master password used to unlock the application.
 
 ## Screenshots
+
+![image](https://github.com/Varshil9/Password-Manager/assets/22892867/1aee2410-7140-4e3f-b590-3d4115aca0ae)
+
+![image](https://github.com/Varshil9/Password-Manager/assets/22892867/083da4ae-1162-4417-8f89-9191c4b8f5c3)
+
+![image](https://github.com/Varshil9/Password-Manager/assets/22892867/fde96186-1b14-45d8-b3be-a7b3ad807332)
+
+![image](https://github.com/Varshil9/Password-Manager/assets/22892867/a6ec7ba4-0e27-4cdc-a2ce-3ef604bbf7dd)
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
+
