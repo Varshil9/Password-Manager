@@ -42,4 +42,5 @@ A simple password manager application built using Python and tkinter for the use
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
+You can connect me on Linkedin - https://www.linkedin.com/in/varshilshah30/
 
